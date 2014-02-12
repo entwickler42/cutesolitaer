@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="ImportFileList">ImportFileList.inc</file>
+        <file alias="ApplicationFont">acmesab.ttf</file>
+        <file alias="SoundWon">service-login.wav</file>
+        <file alias="SoundLost">service-logout.wav</file>
+        <file alias="SoundIllegalMove">dialog-error.wav</file>
+        <file alias="SoundIllegalTile">bell.wav</file>
+        <file>qml/cutesolitaer/CS.qml</file>
+        <file>qml/cutesolitaer/CSBoard.qml</file>
+        <file>qml/cutesolitaer/CSCredits.qml</file>
+        <file>qml/cutesolitaer/csengine.js</file>
+        <file>qml/cutesolitaer/CSFrame.qml</file>
+        <file>qml/cutesolitaer/CSPalette.qml</file>
+        <file>qml/cutesolitaer/CSTile.qml</file>
+        <file>qml/cutesolitaer/CSMenu.qml</file>
+        <file>qml/cutesolitaer/CSMessageBox.qml</file>
+        <file>home.png</file>
+    </qresource>
+</RCC>
